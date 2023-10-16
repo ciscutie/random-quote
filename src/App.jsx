@@ -1,0 +1,14 @@
+import './App.css';
+
+
+import RandomQuote from './pages/RandomQuote';
+
+function App() {
+  return (
+    <div>
+      <RandomQuote />
+    </div>
+  );
+}
+
+export default App;
